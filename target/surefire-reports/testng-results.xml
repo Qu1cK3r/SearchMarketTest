@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="YandexMarketSearchTV" duration-ms="183337" started-at="2016-11-17T13:22:41Z" finished-at="2016-11-17T13:25:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="183337" started-at="2016-11-17T13:22:41Z" finished-at="2016-11-17T13:25:44Z">
+      <class name="HeadPhonesSearchTest">
+        <test-method status="PASS" signature="headPhonesSearch()[pri:0, instance:HeadPhonesSearchTest@12fad11]" name="headPhonesSearch" duration-ms="92920" started-at="2016-11-17T20:24:12Z" finished-at="2016-11-17T20:25:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headPhonesSearch -->
+      </class> <!-- HeadPhonesSearchTest -->
+      <class name="TVsearchTest">
+        <test-method status="PASS" signature="tvSearch()[pri:0, instance:TVsearchTest@6ae04d]" name="tvSearch" duration-ms="90343" started-at="2016-11-17T20:22:41Z" finished-at="2016-11-17T20:24:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tvSearch -->
+      </class> <!-- TVsearchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- YandexMarketSearchTV -->
+</testng-results>
